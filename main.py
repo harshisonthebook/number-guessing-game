@@ -11,8 +11,6 @@ while True:
 
 	if difficulty == "easy":
 		lower_bound, upper_bound, attempt_limit = 1, 50, 10
-	elif difficulty == "hard":
-		pass
 
 	if difficulty == "hard":
 		print("Hard mode is not ready yet. Using medium difficulty.")
